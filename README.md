@@ -1,4 +1,7 @@
-# api documentation for  [angularfire2 (v2.0.0-beta.8)](https://github.com/angular/angularfire2#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angularfire2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angularfire2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angularfire2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angularfire2)
+# npmdoc-angularfire2
+
+#### basic api documentation for  [angularfire2 (v2.0.0-beta.8)](https://github.com/angular/angularfire2#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angularfire2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angularfire2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angularfire2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angularfire2)
+
 #### <p align="center">   <h1 align="center">AngularFire2</h1>   <p align="center">The official library for Firebase and Angular 2</p> </p>
 
 [![NPM](https://nodei.co/npm/angularfire2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angularfire2)
@@ -104,7 +107,8 @@
     },
     "scripts": {},
     "typings": "index.d.ts",
-    "version": "2.0.0-beta.8"
+    "version": "2.0.0-beta.8",
+    "bin": {}
 }
 ```
 
